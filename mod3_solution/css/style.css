@@ -1,0 +1,47 @@
+body {
+	background-color: #BEB9B9;	
+}
+
+#header-nav {
+	background-color:#777272 ; 
+	border-radius: 0;
+	border: 0
+}
+
+.navbar-brand h1 {
+	color: #DFDBDB;
+	margin-top: -10px;
+}
+
+#nav-list a{
+	color: white;
+	text-align: center;
+}
+
+.container #p-title {
+	text-align: center;
+	font-weight: bold;
+}
+
+#menu-title {
+	font-weight: bold;
+}
+
+#collapsable-nav {
+	width: 100%;
+}
+
+#nav-list {
+	background-color: #644B4B;
+
+}
+
+#nav-list a:hover {
+	background:#ADA3A3;
+}
+
+.container p{
+	
+	background-color: #E1A7A7;
+}
+
